@@ -1,5 +1,5 @@
 # SeattleAirbnb
-Analysis of Seattle Airbnb database from Udacity data science non-degree program
+## Analysis of Seattle Airbnb database from Udacity data science non-degree program
 
 The following Airbnb activity is included in this Seattle dataset:
 Listings, including full descriptions and average review score
@@ -9,7 +9,7 @@ Calendar, including listing id and the price and availability for that day
 The following libraries were used for the analysis and visualization: 
 pandas, numpy, matplotlib, sklearn, seaborn
 
-Project Motivation
+## Project Motivation
 For this project, I was interestested in using Airbnb data to better understand:
 
 How the trends in listings and hosts has changed over time?
